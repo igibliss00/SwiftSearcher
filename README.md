@@ -12,7 +12,7 @@ Dynamic Type is when you allow the user to set the font size of your app accordi
 
 To be more precise, Dynamic Type isn’t just about the size of the font. It’s the weight of the font, the font style, as well as the leading points.
 
-<img src="https://github.com/igibliss00/SwiftSearcher/blob/master/README_assets/1.png" width="400">
+<img src="https://github.com/igibliss00/SwiftSearcher/blob/master/README_assets/1.png" height="400">
 
 ([Source](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/))
 
